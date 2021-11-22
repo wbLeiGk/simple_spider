@@ -1,0 +1,5 @@
+./vue3/node_modules
+./vue3/DS_Store
+./vue3dist
+./vue3dist-ssr
+./vue3/*.local
